@@ -5,6 +5,14 @@
   <a href="#-projeto">Projeto</a>
 </p>
 
+<div align="center">
+  <img src="https://img.shields.io/badge/Node.js-v14.9.0-DF4723?logo=node.js">
+  <img src="https://img.shields.io/badge/React.js-v16.3.1-DF4723?logo=react">
+  <img src="https://img.shields.io/badge/React%20Native-v0.63.3-DF4723?logo=react">
+  <img src="https://img.shields.io/badge/%E2%81%99-TypeScript-DF4723?logo=typescript&logoColor=blue">
+
+</div>
+
 <p align="center">
   <img  src="https://img.shields.io/static/v1?label=license&message=MIT&color=8257E6&labelColor=121214" alt="License">  
 </p>
@@ -14,7 +22,7 @@
 
 ## 💻 Projeto
 
-Vamos desenvolver um app no React Native para trabalhar com Mapas e Geolocalização.
+Foi desenvolvido um app no React Native para trabalhar com Mapas e Geolocalização.
 
 ### Instalação
 
