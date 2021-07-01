@@ -6,16 +6,10 @@
 </p>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Node.js-v14.9.0-DF4723?logo=node.js">
-  <img src="https://img.shields.io/badge/React.js-v16.3.1-DF4723?logo=react">
   <img src="https://img.shields.io/badge/React%20Native-v0.63.3-DF4723?logo=react">
   <img src="https://img.shields.io/badge/%E2%81%99-TypeScript-DF4723?logo=typescript&logoColor=blue">
-
+  <img  src="https://img.shields.io/static/v1?label=license&message=MIT&color=8257E6&labelColor=121214" alt="License">
 </div>
-
-<p align="center">
-  <img  src="https://img.shields.io/static/v1?label=license&message=MIT&color=8257E6&labelColor=121214" alt="License">  
-</p>
 
 <br>
 
@@ -36,7 +30,7 @@ git clone https://github.com/Vantercarlos/React-Navite-App.git
 cd React-Navite-App 
 ```
 
- Para baixar as bibliotecas
+ Para baixar as dependencias do projeto
 ```shell
 yarn install 
 ```
